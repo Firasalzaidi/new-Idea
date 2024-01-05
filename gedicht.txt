@@ -7,4 +7,6 @@ Blau
 Gelb
 Magenta
 
+braun
+
 Sind alles tolle Farben.
